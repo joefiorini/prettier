@@ -12,5 +12,6 @@ const aLong = {
     c1: 'a-really-long-value',
     c2: 'a-really-really-long-value',
   },
-  dHasALongName: 'a-long-value-too'
+  dHasALongName: 'a-long-value-too',
+  eHasABooleanExpression: a === a,
 };
